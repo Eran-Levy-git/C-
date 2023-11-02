@@ -1,0 +1,14 @@
+/Users/eranlevy/Library/Mobile Documents/com~apple~CloudDocs/Documents/ערן/Code/Languages/C#/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/Users/eranlevy/Library/Mobile Documents/com~apple~CloudDocs/Documents/ערן/Code/Languages/C#/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json
+/Users/eranlevy/Library/Mobile Documents/com~apple~CloudDocs/Documents/ערן/Code/Languages/C#/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/Users/eranlevy/Library/Mobile Documents/com~apple~CloudDocs/Documents/ערן/Code/Languages/C#/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/Users/eranlevy/Library/Mobile Documents/com~apple~CloudDocs/Documents/ערן/Code/Languages/C#/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/Users/eranlevy/Library/Mobile Documents/com~apple~CloudDocs/Documents/ערן/Code/Languages/C#/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eranlevy/Library/Mobile Documents/com~apple~CloudDocs/Documents/ערן/Code/Languages/C#/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/eranlevy/Library/Mobile Documents/com~apple~CloudDocs/Documents/ערן/Code/Languages/C#/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/Users/eranlevy/Library/Mobile Documents/com~apple~CloudDocs/Documents/ערן/Code/Languages/C#/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/eranlevy/Library/Mobile Documents/com~apple~CloudDocs/Documents/ערן/Code/Languages/C#/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/Users/eranlevy/Library/Mobile Documents/com~apple~CloudDocs/Documents/ערן/Code/Languages/C#/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/Users/eranlevy/Library/Mobile Documents/com~apple~CloudDocs/Documents/ערן/Code/Languages/C#/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/Users/eranlevy/Library/Mobile Documents/com~apple~CloudDocs/Documents/ערן/Code/Languages/C#/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache
+/Users/eranlevy/Library/Mobile Documents/com~apple~CloudDocs/Documents/ערן/Code/Languages/C#/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll
