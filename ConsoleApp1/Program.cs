@@ -281,15 +281,12 @@ void Pyramid()
             j++;
         }
         j = 1;
-        while (j <= 2 * i - 1) // asterisk
+        while (j <= 2 * i - 1) 
         {
-            if (j == 1 || j == 2 * i - 1) {
+            if (j == 1 || j == 2 * i - 1)
                 Console.Write("*");
-            } else if (i == height) {
+            else
                 Console.Write(" ");
-            } else {
-                Console.Write(" ");
-            }
             j++;
         }
         Console.WriteLine();
@@ -326,5 +323,4 @@ void Octal(){
 Octal();
 */
 
-
-
+Console.WriteLine("all methods in comment");
