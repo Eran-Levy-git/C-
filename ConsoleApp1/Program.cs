@@ -210,6 +210,7 @@ Pow();
 
 // Final exersice
 
+/*
 void Sqrt()
 {
     Console.WriteLine("Please enter a number:");
@@ -236,3 +237,94 @@ void Sqrt()
 }
 
 Sqrt();
+*/
+
+// Average Question
+
+/*
+void Average(){
+    int sum = 0, highest, lowest;
+    double counter = 0;
+    Console.WriteLine("Please enter a number:");
+    int input = int.Parse(Console.ReadLine());
+    highest = input; lowest = input;
+    while (input != -1){
+        highest = highest < input ? input : highest;
+        lowest = lowest < input ? lowest : input;
+        sum += input;
+        counter++;
+        input = int.Parse(Console.ReadLine());
+    }
+    Console.WriteLine("Average: "+sum/counter);
+    Console.WriteLine("Lowest: "+lowest);
+    Console.WriteLine("Highest: "+highest);
+
+}
+
+Average();
+*/
+
+// Pyramid Question
+
+/*
+void Pyramid()
+{
+    Console.WriteLine("Please enter pyramid height:");
+    int height = int.Parse(Console.ReadLine());
+    int i = 1;
+    while (i <= height) // row
+    {
+        int j = 1;
+        while (j <= height - i) // col
+        {
+            Console.Write(" ");
+            j++;
+        }
+        j = 1;
+        while (j <= 2 * i - 1) // asterisk
+        {
+            if (j == 1 || j == 2 * i - 1) {
+                Console.Write("*");
+            } else if (i == height) {
+                Console.Write(" ");
+            } else {
+                Console.Write(" ");
+            }
+            j++;
+        }
+        Console.WriteLine();
+        i++;
+    }
+}
+
+Pyramid();
+*/
+
+
+// Octal Question
+
+
+/*
+void Octal(){
+    int i, num=1;
+    Console.WriteLine("0");
+    while (num <= 4095)
+    {
+        i = num;
+        string octal = "";
+        while (i > 0)
+        {
+            int digit = i % 8;
+            octal = digit + octal;
+            i /= 8;
+        }
+        Console.WriteLine(octal);
+        num++;
+    }
+}
+
+Octal();
+*/
+
+
+
